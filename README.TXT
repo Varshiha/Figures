@@ -47,3 +47,9 @@ Classes Included
 - Person.java
 - Square.java
 - Triangle.java
+
+Questions:
+2. When I call moveDown twice, the circle moved down 2 pixels and when it was three times, it went down 3 pixels. When I called makeInvisible once, the circle disappeared and when I did it again it didn't change it was still invisble.
+3. To moveHorizontal the circle 70 pixels to the left, I had to write -70. 
+4. When I Invoked the changeColor method without quotes it said Error: cannot find symbol.
+9. To create the imagine, I created 4 objects in total: 1 green big circle for the mountain/grass, 1 small yellow circle for the sun, 1 person that was tall and 1 peerson that was shorter. I used the methods (moveVertical, moveHorizontal, changeSize and changeColor) to achieve this. I don't have the numbers I used but it was trial and error until I was satisfied with the placements. I am pretty sure you can do it in other ways. I think you can write it in the code exactly how you want it and it will pop up if u click on a method.
